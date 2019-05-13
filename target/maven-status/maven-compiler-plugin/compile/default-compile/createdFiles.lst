@@ -1,0 +1,4 @@
+com\conal\backend\Application.class
+com\conal\backend\controllers\UserController.class
+com\conal\backend\repository\UserRepository.class
+com\conal\backend\entity\User.class
